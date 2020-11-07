@@ -29,17 +29,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/RadiatorGames/RadiatorGames.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/PixelImport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/CanvasGroupSwapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/5d/faed2cbc/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AI/Behaviour Tree/BehaviourTreeViewWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AI/Behaviour Tree/localTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AI/Behaviour Tree/behaviourTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/sanityScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Editor/PixelImport.cs" />
         <option value="$PROJECT_DIR$/Assets/localTree.cs" />
-        <option value="$PROJECT_DIR$/Assets/AI/Behaviour Tree/localTree.cs" />
         <option value="$PROJECT_DIR$/Assets/AI/Behaviour Tree/BehaviourTreeViewWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/PixelImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI/Behaviour Tree/behaviourTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI/Behaviour Tree/localTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/CanvasGroupSwapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/RadiatorGames/RadiatorGames.cs" />
       </list>
     </option>
   </component>
@@ -79,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604711025649</updated>
-      <workItem from="1604711050025" duration="1091000" />
+      <workItem from="1604711050025" duration="1517000" />
+      <workItem from="1604713699941" duration="1062000" />
+      <workItem from="1604714798282" duration="103000" />
     </task>
     <servers />
   </component>
@@ -95,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
