@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="36276fdd-77db-4672-921e-bdef796dabe1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +30,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Editor/PixelImport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AI/Behaviour Tree/BehaviourTreeViewWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AI/Behaviour Tree/localTree.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Editor/PixelImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/localTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI/Behaviour Tree/localTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI/Behaviour Tree/BehaviourTreeViewWindow.cs" />
       </list>
     </option>
   </component>
@@ -56,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604711025649</updated>
-      <workItem from="1604711050025" duration="328000" />
+      <workItem from="1604711050025" duration="1091000" />
     </task>
     <servers />
   </component>
@@ -75,5 +98,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="277" width="672" height="678" key="search.everywhere.popup" timestamp="1604711941877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="277" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604711941877" />
   </component>
 </project>
